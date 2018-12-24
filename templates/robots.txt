@@ -1,0 +1,4 @@
+User-Agent:*
+DisAllow: /
+DisAllow: /templates
+DisAllow: /images
